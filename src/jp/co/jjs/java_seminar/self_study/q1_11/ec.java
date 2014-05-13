@@ -29,10 +29,10 @@ public class ec {
         double wari = 0;
         
         wari = -5.9 % 3.3;
-        System.out.println(wari);
+        System.out.println(wari); //-2.6000000000000005
         
         wari = -5.9 % -3.3;
-        System.out.println(wari);
+        System.out.println(wari); //-2.6000000000000005
     }
 
 }
