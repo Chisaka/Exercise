@@ -12,4 +12,8 @@ public class Bookshelf {
         i++;
     }
 
+    public Bookshelf() {
+        // TODO 自動生成されたコンストラクター・スタブ
+    }
+
 }
