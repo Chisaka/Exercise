@@ -13,13 +13,9 @@ public class Book {
     Date publication;
 
     public Book(
-            int id,
-            int price,
             String title,
             String isbnNum,
-            String publisher,
-            String writer,
-            Date publication
+            String publisher
             ) {
         this.id = id;
         this.price = price;
